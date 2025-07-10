@@ -1,0 +1,12 @@
+{
+  "name": "autenticacao-e-seguranca-jwt",
+  "version": "1.0.0",
+  "description": "Autenticacao JWT",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
